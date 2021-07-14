@@ -1,0 +1,41 @@
+h1 { 
+    color: red;
+    font-size: 50px;
+    text-decoration: underline;
+
+}
+
+h2{
+    text-decoration: underline;
+}
+
+
+#top{
+    border:2px solid black;
+    border-spacing: 15px;
+    margin: 10px;
+    margin-bottom: separate;
+    padding: 10px;
+}
+
+#bottom{
+
+    border:2px solid black;
+    border-spacing: 15px;
+    margin: 10px;
+    margin-bottom: separate;
+}
+
+
+p1{
+    text-decoration: blue;
+    font-style: italic;
+}
+
+p2 {
+    text-decoration: blue;
+}
+p3 {
+    text-decoration: green;
+
+}
